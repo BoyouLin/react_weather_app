@@ -40,7 +40,7 @@ export const availableLocations = [
   {
     cityName: "桃園市",
     locationName: "新屋",
-    sunriseCityName: "桃園縣",
+    sunriseCityName: "桃園市",
   },
   {
     cityName: "彰化縣",
@@ -80,7 +80,7 @@ export const availableLocations = [
   {
     cityName: "新竹縣",
     locationName: "新竹",
-    sunriseCityName: "新竹",
+    sunriseCityName: "新竹縣",
   },
   {
     cityName: "花蓮縣",

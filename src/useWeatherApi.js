@@ -6,7 +6,6 @@ const fetchCurrentWeather = (locationName) => {
   )
     .then((response) => response.json())
     .then((data) => {
-      console.log(data);
       const locationData = data.records.Station[0];
 
       // const weatherElements_Old = locationData.weatherElement.reduce(
