@@ -3,13 +3,33 @@
   "name": "天氣預測網",
   "icons": [
     {
-      "src": "appIcon.png",
+      "src": "icon@x48.png",
       "type": "image/png",
-      "sizes": "138x138"
+      "sizes": "48 × 48"
+    },
+    {
+      "src": "icon@96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon@144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icon@192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon@512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#1f2022",
+  "background_color": "#1f2022"
 }
