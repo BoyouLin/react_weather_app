@@ -1,0 +1,15 @@
+{
+  "short_name": "天氣預測網",
+  "name": "天氣預測網",
+  "icons": [
+    {
+      "src": "appIcon.png",
+      "type": "image/png",
+      "sizes": "138x138"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
