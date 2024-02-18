@@ -6,5 +6,5 @@
 
 ### 改動
 
-1. 因應中央氣象署改制，【氣象資料開放平臺】網址更動(由https://opendata.cwb.gov.tw/改為https://opendata.cwa.gov.tw/)，調整api網址。
+1. 因應中央氣象署改制，【氣象資料開放平臺】網址更動(由`https://opendata.cwb.gov.tw/`改為`https://opendata.cwa.gov.tw/`)，調整 api 網址。
 2. 因應 api 回傳 json 格式異動而調整，詳情請見氣象資料開放平臺公告-[觀測資料格式(含 API)異動](https://opendata.cwa.gov.tw/announcement/news/229?page=4)
